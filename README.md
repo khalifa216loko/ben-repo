@@ -18,11 +18,11 @@ Environment configuration refers to the setup and adjustment of computer systems
 - `touch filename`: Create an empty file named `filename`.
 - `mkdir directory_name`: Create a new directory named `directory_name`.
 - `rm filename`: Remove (delete) a file.
-- `rm -r directory_name`: Remove a directory and its contents recursively.
+- `rm -r directory_name`: Remove a directory and its contents.
 
 ### Text Editors:
 
-- `nano filename` or `vi filename`: Open a terminal-based text editor to edit `filename`.
+- `nano filename` or `vi filenames`: Open a terminal-based text editor to edit `filename`.
 - `cat filename`: Display the contents of a text file in the terminal.
 
 ### File Transfer:
